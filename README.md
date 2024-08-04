@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @ElianPujols.
+- 👋 Hello, I'm @ElianPujols...
 - 👀 I'm interested in: Mainly web development, with JavaScript.
 - 🌱 I am currently learning: I am still learning "JavaScript"
 - 💞️ I am looking to collaborate in: In any project that is dedicated to learning this beautiful development language.
